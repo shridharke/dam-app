@@ -33,18 +33,11 @@ class Profile extends StatelessWidget {
                 height: 15,
               ),
               const Text(
-                "Summer",
+                "Presaraksha",
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
               ),
               const SizedBox(
                 height: 2,
-              ),
-              Text(
-                "Edit health details",
-                style: TextStyle(
-                  fontSize: 12,
-                  color: Theme.of(context).primaryColor,
-                ),
               ),
               Padding(
                 padding:

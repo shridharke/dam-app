@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBkU1tjCegSqjmSoqMTAm4Hr_cHzWr5RyY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1067341700350</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.dashboard.flutter.app.flutterDashboard</string>
+	<key>PROJECT_ID</key>
+	<string>dam-project-e2a33</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dam-project-e2a33.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1067341700350:ios:8e90ed9297cd7bd5b359af</string>
+	<key>DATABASE_URL</key>
+	<string>https://dam-project-e2a33-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>
